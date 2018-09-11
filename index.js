@@ -1,1 +1,3 @@
-if(a+b === a+b)
+function addTwoNumbers(a,b){
+  return (a + b);
+}
